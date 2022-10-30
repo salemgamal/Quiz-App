@@ -5,18 +5,8 @@ Country flags Quiz-App:
   
   1. Enter the Name:
   
-    ![image](https://user-images.githubusercontent.com/64424329/198905443-2e5fdb13-ec0b-4168-9490-bc8bd31b2ef4.png)
-
   2. Answer the questions:
   
-    ![image](https://user-images.githubusercontent.com/64424329/198905459-56770e77-0bfd-44b0-a3be-8380846d06bb.png)
-
-  
-  3. Get the final result:
-  
-    ![image](https://user-images.githubusercontent.com/64424329/198905483-27ac8cc0-db9e-457d-8351-732cebb6c866.png)
-
-
+  3. Get the final result.
     
-  
-  4. User can click finish to staer another quiz
+  4. User can click finish to staer another quiz.
