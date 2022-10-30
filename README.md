@@ -5,15 +5,15 @@ Country flags Quiz-App:
   
   1. Enter the Name:
   
-    ![image](https://user-images.githubusercontent.com/64424329/198905120-c9d4eee0-7161-4f9c-bb33-a537ecad621f.png)
+    ![image](https://user-images.githubusercontent.com/64424329/198905323-0b6ed527-c674-4cad-a3a6-277ff83f05c3.png)
 
   2. Answer the questions:
   
-    ![image](https://user-images.githubusercontent.com/64424329/198905181-5db5e5ef-4680-493d-9f99-8545cdd6bfce.png)
+    ![image](https://user-images.githubusercontent.com/64424329/198905357-a8c2b2f4-1c35-4c7e-acda-2e3dd9d0e81a.png)
   
   3. Get the final result:
   
-    ![image](https://user-images.githubusercontent.com/64424329/198905223-dbbff4f2-2ac0-4e19-b394-8ff43a1cb5a2.png)
+    ![image](https://user-images.githubusercontent.com/64424329/198905373-50480916-3538-4a8f-821d-97835699d07b.png)
     
   
   4. User can click finish to staer another quiz
